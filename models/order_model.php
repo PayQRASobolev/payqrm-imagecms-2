@@ -405,14 +405,21 @@ class Order_model extends CI_Model{
 			$oData['delivery_id'] = 3;//без доставки
 		}
 
-		if(isset($this->delivery_case_selected->amountTo) && !empty($this->delivery_case_selected->amountTo))
-		{
-			$oData['delivery_cost'] = $this->delivery_case_selected->amountTo;
-		}
-		else 
-		{
-			$oData['delivery_cost'] = 0;
-		}
+		$DeliveryModel = Payqr::getInstance()->getDeliveryModel();
+
+		$deliveryRes = $DeliveryModel->getDeliveryCost($oData['delivery_id']);
+
+		$oData['delivery_cost'] = ($deliveryRes->price) ? $deliveryRes->price : $this->delivery_case_selected->amountTo;
+
+		$this->__log(print_r($deliveryRes, true), __LINE__, true);
+		// if(isset($this->delivery_case_selected->amountTo) && !empty($this->delivery_case_selected->amountTo))
+		// {
+		// 	$oData['delivery_cost'] = ($deliveryRes->price) ? $deliveryRes->price : $this->delivery_case_selected->amountTo;
+		// }
+		// else 
+		// {
+		// 	$oData['delivery_cost'] = 0;
+		// }
 
 		$PayqrModel = \Payqr::getInstance()->getPayqrModel();
 
