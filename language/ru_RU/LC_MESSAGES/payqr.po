@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-19 11:32+0200\n"
+"PO-Revision-Date: 2015-08-20 15:00+0300\n"
+"Last-Translator: PayQR <payqr@biz.ru>\n"
+"Language-Team: <>\n"
+"Language: Smarty\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: lang\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:6
+msgid "PayQR module"
+msgstr "PayQR модуль"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:32
+msgid "payqr_merchant_id"
+msgstr "PayQR merchant ID"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:36
+msgid "payqr_merchant_secret_key_in"
+msgstr "PayQR SecretKeyIn"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:40
+msgid "payqr_merchant_secret_key_out"
+msgstr "PayQR SecretKeyOut"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:44
+msgid "payqr_hook_handler_url"
+msgstr "URL PayQR обработчика"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:48
+msgid "payqr_log_url"
+msgstr "URL PayQR логов"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:56
+msgid "payqr_button_show_on_cart"
+msgstr "Показывать кнопку PayQR на страничке корзины"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:67
+msgid "payqr_cart_button_color"
+msgstr "Цвет кнопки на странице корзины товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:79
+msgid "payqr_cart_button_form"
+msgstr "Форма кнопки на странице корзины товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:92
+msgid "payqr_cart_button_shadow"
+msgstr "Тень кнопки на странице корзины товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:102
+msgid "payqr_cart_button_gradient"
+msgstr "Градиент кнопки на странице корзины товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:112
+msgid "payqr_cart_button_font_trans"
+msgstr "Размер шрифта кнопки на странице корзины товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:124
+msgid "payqr_cart_button_font_width"
+msgstr "Ширина шрифта кнопки на странице корзины товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:134
+msgid "payqr_cart_button_text_case"
+msgstr "Регистр текста кнопки на странице корзины товара"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:144
+msgid "payqr_cart_button_height"
+msgstr "Высота кнопки на странице корзины товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:150
+msgid "payqr_cart_button_width"
+msgstr "Ширина кнопки на странице корзины товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:159
+msgid "payqr_button_show_on_product"
+msgstr "Показывать кнопку PayQR на страничке карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:169
+msgid "payqr_product_button_color"
+msgstr "Цвет кнопки на странице карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:181
+msgid "payqr_product_button_form"
+msgstr "Форма кнопки на странице карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:194
+msgid "payqr_product_button_shadow"
+msgstr "Тень кнопки на странице карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:204
+msgid "payqr_product_button_gradient"
+msgstr "Градиент кнопки на странице карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:214
+msgid "payqr_product_button_font_trans"
+msgstr "Размер шрифта кнопки на странице карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:225
+msgid "payqr_product_button_font_width"
+msgstr "Ширина шрифта кнопки на странице карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:235
+msgid "payqr_product_button_text_case"
+msgstr "Регистр текста кнопки на странице карточки товара"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:246
+msgid "payqr_product_button_height"
+msgstr "Высота кнопки на странице карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:252
+msgid "payqr_product_button_width"
+msgstr "Ширина кнопки на странице карточки товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:262
+msgid "payqr_button_show_on_category"
+msgstr "Показывать кнопку PayQR на страничке категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:272
+msgid "payqr_category_button_color"
+msgstr "Цвет кнопки на странице категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:284
+msgid "payqr_category_button_form"
+msgstr "Форма кнопки на странице категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:297
+msgid "payqr_category_button_shadow"
+msgstr "Тень кнопки на странице категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:307
+msgid "payqr_category_button_gradient"
+msgstr "Градиент кнопки на странице категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:317
+msgid "payqr_category_button_font_trans"
+msgstr "Размер шрифта кнопки на странице категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:328
+msgid "payqr_category_button_font_width"
+msgstr "Ширина шрифта кнопки на странице категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:338
+msgid "payqr_category_button_text_case"
+msgstr "Регистр текста кнопки на странице карточки товара"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:349
+msgid "payqr_category_button_height"
+msgstr "Высота кнопки на странице категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:355
+msgid "payqr_category_button_width"
+msgstr "Ширина кнопки на странице категории товаров"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:58
+#: application/modules/payqr/assets/admin/payqr.tpl:162
+msgid "yes"
+msgstr "Да"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:59
+#: application/modules/payqr/assets/admin/payqr.tpl:163
+msgid "no"
+msgstr "Нет"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:69
+#: application/modules/payqr/assets/admin/payqr.tpl:81
+#: application/modules/payqr/assets/admin/payqr.tpl:94
+#: application/modules/payqr/assets/admin/payqr.tpl:104
+#: application/modules/payqr/assets/admin/payqr.tpl:114
+#: application/modules/payqr/assets/admin/payqr.tpl:126
+#: application/modules/payqr/assets/admin/payqr.tpl:136
+#: application/modules/payqr/assets/admin/payqr.tpl:172
+#: application/modules/payqr/assets/admin/payqr.tpl:393
+#: application/modules/payqr/assets/admin/payqr.tpl:403
+#: application/modules/payqr/assets/admin/payqr.tpl:413
+#: application/modules/payqr/assets/admin/payqr.tpl:423
+#: application/modules/payqr/assets/admin/payqr.tpl:433
+#: application/modules/payqr/assets/admin/payqr.tpl:444
+#: application/modules/payqr/assets/admin/payqr.tpl:454
+#: application/modules/payqr/assets/admin/payqr.tpl:464
+#: application/modules/payqr/assets/admin/payqr.tpl:475
+msgid "default"
+msgstr "По умолчанию"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:70
+#: application/modules/payqr/assets/admin/payqr.tpl:173
+#: application/modules/payqr/assets/admin/payqr.tpl:276
+msgid "green"
+msgstr "Зеленый"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:71
+#: application/modules/payqr/assets/admin/payqr.tpl:174
+#: application/modules/payqr/assets/admin/payqr.tpl:277
+msgid "red"
+msgstr "Красный"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:72
+#: application/modules/payqr/assets/admin/payqr.tpl:175
+#: application/modules/payqr/assets/admin/payqr.tpl:278
+msgid "blue"
+msgstr "Синий"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:73
+#: application/modules/payqr/assets/admin/payqr.tpl:176
+#: application/modules/payqr/assets/admin/payqr.tpl:279
+msgid "orange"
+msgstr "Оранжевый"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:82
+#: application/modules/payqr/assets/admin/payqr.tpl:185
+#: application/modules/payqr/assets/admin/payqr.tpl:288
+msgid "sharp"
+msgstr "Без округления"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:83
+#: application/modules/payqr/assets/admin/payqr.tpl:186
+#: application/modules/payqr/assets/admin/payqr.tpl:289
+msgid "rude"
+msgstr "Минимальное округление"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:84
+#: application/modules/payqr/assets/admin/payqr.tpl:187
+#: application/modules/payqr/assets/admin/payqr.tpl:290
+msgid "soft"
+msgstr "Мягкое округление"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:85
+#: application/modules/payqr/assets/admin/payqr.tpl:188
+#: application/modules/payqr/assets/admin/payqr.tpl:291
+msgid "sleek"
+msgstr "Значительное округление"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:86
+#: application/modules/payqr/assets/admin/payqr.tpl:189
+#: application/modules/payqr/assets/admin/payqr.tpl:292
+msgid "oval"
+msgstr "Максимальное округление"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:95
+#: application/modules/payqr/assets/admin/payqr.tpl:198
+#: application/modules/payqr/assets/admin/payqr.tpl:301
+msgid "shadow"
+msgstr "Включена"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:96
+#: application/modules/payqr/assets/admin/payqr.tpl:199
+#: application/modules/payqr/assets/admin/payqr.tpl:302
+msgid "noshadow"
+msgstr "Отключена"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:105
+#: application/modules/payqr/assets/admin/payqr.tpl:208
+#: application/modules/payqr/assets/admin/payqr.tpl:311
+msgid "flat"
+msgstr "Отключена"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:106
+#: application/modules/payqr/assets/admin/payqr.tpl:209
+#: application/modules/payqr/assets/admin/payqr.tpl:312
+msgid "gradient"
+msgstr "Включена"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:115
+#: application/modules/payqr/assets/admin/payqr.tpl:218
+#: application/modules/payqr/assets/admin/payqr.tpl:321
+msgid "small"
+msgstr "Мелко"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:116
+#: application/modules/payqr/assets/admin/payqr.tpl:219
+#: application/modules/payqr/assets/admin/payqr.tpl:322
+msgid "medium"
+msgstr "Средне"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:117
+#: application/modules/payqr/assets/admin/payqr.tpl:220
+#: application/modules/payqr/assets/admin/payqr.tpl:323
+msgid "large"
+msgstr "Крупно"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:127
+#: application/modules/payqr/assets/admin/payqr.tpl:229
+#: application/modules/payqr/assets/admin/payqr.tpl:332
+msgid "normal"
+msgstr "Отключен"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:128
+#: application/modules/payqr/assets/admin/payqr.tpl:230
+#: application/modules/payqr/assets/admin/payqr.tpl:333
+msgid "bold"
+msgstr "Включен"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:137
+#: application/modules/payqr/assets/admin/payqr.tpl:239
+#: application/modules/payqr/assets/admin/payqr.tpl:342
+msgid "lowercase"
+msgstr "Нижний"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:138
+#: application/modules/payqr/assets/admin/payqr.tpl:240
+#: application/modules/payqr/assets/admin/payqr.tpl:343
+msgid "standartcase"
+msgstr "Стандартный"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:139
+#: application/modules/payqr/assets/admin/payqr.tpl:241
+#: application/modules/payqr/assets/admin/payqr.tpl:344
+msgid "uppercase"
+msgstr "Верхний"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:394
+#: application/modules/payqr/assets/admin/payqr.tpl:404
+#: application/modules/payqr/assets/admin/payqr.tpl:414
+#: application/modules/payqr/assets/admin/payqr.tpl:424
+#: application/modules/payqr/assets/admin/payqr.tpl:434
+#: application/modules/payqr/assets/admin/payqr.tpl:445
+#: application/modules/payqr/assets/admin/payqr.tpl:455
+#: application/modules/payqr/assets/admin/payqr.tpl:465
+#: application/modules/payqr/assets/admin/payqr.tpl:476
+msgid "deny"
+msgstr "Не запрашивать"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:395
+#: application/modules/payqr/assets/admin/payqr.tpl:405
+#: application/modules/payqr/assets/admin/payqr.tpl:415
+#: application/modules/payqr/assets/admin/payqr.tpl:425
+#: application/modules/payqr/assets/admin/payqr.tpl:435
+#: application/modules/payqr/assets/admin/payqr.tpl:446
+#: application/modules/payqr/assets/admin/payqr.tpl:456
+#: application/modules/payqr/assets/admin/payqr.tpl:466
+#: application/modules/payqr/assets/admin/payqr.tpl:477
+msgid "required"
+msgstr "Запрашивать"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:482
+msgid "payqr_promo_code"
+msgstr "Текстовое название промо-идентификатора"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:486
+msgid "payqr_user_message_text"
+msgstr "Сообщение в покупке после ее совершения"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:490
+msgid "payqr_user_message_imageurl"
+msgstr "URL изображения в покупке после ее совершения"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:494
+msgid "payqr_user_message_url"
+msgstr "URL ссылка на сайта продавца в покупке после ее совершения"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:365
+msgid "payqr_status_creatted"
+msgstr "Статус PayQR заказа <<создан>>"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:371
+msgid "payqr_status_paid"
+msgstr "Статус PayQR заказа <<оплачен>>"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:377
+msgid "payqr_status_cancelled"
+msgstr "Статус PayQR заказа <<отменен>>"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:383
+msgid "payqr_status_completed"
+msgstr "Статус PayQR заказа <<завершен>>"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:390
+msgid "payqr_require_firstname"
+msgstr "Запрашивать имя покупателя"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:400
+msgid "payqr_require_lastname"
+msgstr "Запрашивать фамилию покупателя"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:410
+msgid "payqr_require_middlename"
+msgstr "Запрашивать отчество покупателя"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:420
+msgid "payqr_require_phone"
+msgstr "Запрашивать номер телефона покупателя"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:430
+msgid "payqr_require_email"
+msgstr "Запрашивать заполнения e-mail покупателем"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:441
+msgid "payqr_require_delivery"
+msgstr "Запрашивать адрес доставки"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:451
+msgid "payqr_require_deliverycases"
+msgstr "Могут ли быть в магазине способы доставки"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:461
+msgid "payqr_require_pickpoints"
+msgstr "Могут ли быть в магазине точки самовывоза"
+
+#: application/modules/payqr/assets/admin/payqr.tpl:472
+msgid "payqr_require_promo"
+msgstr "Предлагать ввести промо-идентификатор"
+
+#: application/modules/payqr/modules/payqr_model.php:95
+msgid "Successfully saved"
+msgstr "Успешно сохранено"
