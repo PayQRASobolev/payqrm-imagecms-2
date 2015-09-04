@@ -411,7 +411,6 @@ class Order_model extends CI_Model{
 
 		$oData['delivery_cost'] = ($deliveryRes->price) ? $deliveryRes->price : $this->delivery_case_selected->amountTo;
 
-		$this->__log(print_r($deliveryRes, true), __LINE__, true);
 		// if(isset($this->delivery_case_selected->amountTo) && !empty($this->delivery_case_selected->amountTo))
 		// {
 		// 	$oData['delivery_cost'] = ($deliveryRes->price) ? $deliveryRes->price : $this->delivery_case_selected->amountTo;
